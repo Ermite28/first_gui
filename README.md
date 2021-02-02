@@ -14,6 +14,7 @@ Une fenêtre souvre alors (vi), faire ":q!"
 
 ## batailleLikeGame
 Stupide jeux comme Bataille ou on compare juste des valeurs et on dit qui a la plus grosse.
+
 ![]()![previewBatailleLikeGame](previewBatailleLikeGame.png)
 ### TO DO
 - [ ] Soigner la 'mise en page'
