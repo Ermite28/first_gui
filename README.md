@@ -16,6 +16,11 @@ Une fenêtre souvre alors (vi), faire ":q!"
 Stupide jeux comme Bataille ou on compare juste des valeurs et on dit qui a la plus grosse.
 
 ![]()![previewBatailleLikeGame](previewBatailleLikeGame.png)
+
+## RULES
+https://bicyclecards.com/how-to-play/war/
+
+
 ### TO DO
 - [ ] Soigner la 'mise en page'
 - [ ] Afficher qui gagne sur la fenêtre et non pas dans la console.
