@@ -1,18 +1,4 @@
-# Utilisation de git
-
-```bash
-git add myfiles
-git commit -m "commit"
-git push origin main
-```
-
-Si errors lors du push:
-```bash
-git pull
-```
-Une fenêtre souvre alors (vi), faire ":q!"
-
-## batailleLikeGame
+# batailleLikeGame
 Stupide jeux comme Bataille ou on compare juste des valeurs et on dit qui a la plus grosse.
 
 ![]()![previewBatailleLikeGame](previewBatailleLikeGame.gif)
